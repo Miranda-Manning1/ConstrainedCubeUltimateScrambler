@@ -1,4 +1,5 @@
 # By Miranda Manning
+# Written in 2020
 
 import random
 import sys
